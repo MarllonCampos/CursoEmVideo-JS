@@ -1,0 +1,5 @@
+// Foi explicado como implementar comentários no seu código
+
+//  ----> /* */  Este tipo comenta em várias linhas
+
+//  -----> // Este tipoc comenta apenas a linha em que esta
